@@ -1,3 +1,4 @@
+
 # Demo Mission
 
 This is a demo Mission Repository for Source Academy. This file should document the correct format for all Mission Repositories and also their intended usage with GitHub Classrooms and the Source Academy website.
@@ -25,6 +26,12 @@ propertyName=value
 The property names should be written in `camelCase`.
 
 The following properties should be included in the `METADATA` file:
+| Property      | Value | 
+|:--------------|:------|
+|`title`        |The display title of the Mission. This is typically different from the repository name.|
+|`webSummary`   |A one-line summary of the Mission.|
+|`coverImage`   |A link to the Mission's image.|
+|`sourceVersion`|The version of Source the compiler will use. Should be 1, 2, 3 or 4.|
 
  
 ### Question Folders
