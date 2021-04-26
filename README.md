@@ -1,6 +1,4 @@
-
 # Demo Mission
-
 This is a demo Mission Repository for Source Academy. This file should document the correct format for all Mission Repositories and also their intended usage with GitHub Classrooms and the Source Academy website.
 
 If you would like to create your own mission repository, make sure to name the repository with the `SA-` prefix.
@@ -42,7 +40,11 @@ Each folder should contain another 2 files, `Problem.md` and `StarterCode.js`:
 - `StarterCode.js` should contain the template code for the question.
 
 ## Testing Your Repository
-TODO: Add pictures
+### Authorizing our application for your Classroom
+Source Academy might not be able to see your mission if it is not given permission to access your Classroom's repositories. Please follow the steps below to set the permissions:
+1. Log in with GitHub through our website. By approving Source Academy, you add it to your list of personally approved apps.
+2. On your account, navigate to Settings > Applications > Authorized OAuth Apps.
+3. Click on the Source Academy app, then grant permission for your classroom application.
 
 ### Opening your Mission
 If you would like to view your repository from the student's perspective, please follow the following steps:
@@ -57,8 +59,6 @@ If you would like to view your repository from the student's perspective, please
 3. If nothing goes wrong, your changes will be saved back to the repository.
 
 ## Sharing Your Repository
-TODO: Add pictures
-
 Mission Repositories are intended to be used with GitHub classrooms. This section is a guide showing how they should be used:
 
 1. Clone or create a Mission Repository. Then, set it as a template.
