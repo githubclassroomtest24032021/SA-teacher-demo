@@ -3,7 +3,7 @@
 
 // Question 1: Say hi!
 function helloWorld() {
-    display("Hello World!");
+    // Your code here!
 }
 
 helloWorld();
